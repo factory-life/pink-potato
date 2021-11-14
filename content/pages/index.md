@@ -13,7 +13,6 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: none
-    background_image: /images/4.jpg
     background_image_opacity: 15
     background_image_size: cover
     image: /images/123.png
